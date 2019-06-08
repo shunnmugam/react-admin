@@ -1,12 +1,13 @@
 # react-admin
 
 Admin panel boiler-plate using react and nest.js
-##UI
+
+### UI
 Ui for frontend
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the ui directory, you can run:
 
 ### `npm start`
 
